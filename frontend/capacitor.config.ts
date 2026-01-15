@@ -1,9 +1,9 @@
-import type { CapacitorConfig } from '@capacitor/cli';
+import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: 'com.example.app',
-  appName: 'frontend',
-  webDir: 'out'
+  appId: "com.raushan.counterapp",
+  appName: "CounterApp",
+  webDir: "out",
 };
 
 export default config;

@@ -1,4 +1,4 @@
-package com.example.app;
+package com.raushan.counterapp;
 
 import com.getcapacitor.BridgeActivity;
 
